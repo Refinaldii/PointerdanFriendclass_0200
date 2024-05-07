@@ -35,9 +35,14 @@ void orang::setNama(string pNama)
 {
     nama = pNama;
 }
+
+void siswa::setId(int pId)
+{
+    id = pId;
+}
 int main()
 {
-    std::cout << "Hello World!\n";
+    
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
