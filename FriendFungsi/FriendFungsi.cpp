@@ -14,6 +14,11 @@ public:
     void setNama(string pNama);
     friend class siswa;
 };
+
+class siswa
+{
+
+};
 int main()
 {
     std::cout << "Hello World!\n";
