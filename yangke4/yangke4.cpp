@@ -5,7 +5,7 @@
 using namespace std;
 
 class mahasiswa {
-
+private: 
 };
 
 int main()
