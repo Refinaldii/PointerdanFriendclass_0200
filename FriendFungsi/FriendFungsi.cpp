@@ -6,7 +6,9 @@ using namespace std;
 
 class siswa;
 class orang;
-
+{
+private:
+}
 int main()
 {
     std::cout << "Hello World!\n";
